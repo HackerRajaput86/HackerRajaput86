@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @HackerRajaput86
+<h2><font color="red"> Hi, I’m Ketan Singh. </font></h2>
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning B.tech 2nd year from AIML 
+<br >
+- 🌱 I’m currently learning B.tech 2nd year from AIML
+<br >
 - 💞️ I’m looking to collaborate on Cyber Security
+<br >
 - 📫 How to reach me ?
--  💌 my email: hackerrajaput6@gmail.com
+<br >
+<p>- 💌My Gmail ⏩</p>
+<br >
+<a href = "hackerrajaput6@gmail.com">Ketan Singh</a>
 
+ 
 
 <!---
 HackerRajaput86/HackerRajaput86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
