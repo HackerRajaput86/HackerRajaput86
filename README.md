@@ -7,10 +7,10 @@
 <br >
 - 📫 How to reach me ?
 <br >
-<p>- 💌My Gmail ⏩</p>
-<br >
-<a href = "hackerrajaput6@gmail.com">Ketan Singh</a>
+<p>- 💌My Gmail ⏩
 
+  hackerrajaput6@gmail.com
+</p>
  
 
 <!---
