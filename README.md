@@ -1,4 +1,4 @@
-<h2><font color="red"> Hi, I’m Ketan Singh. </font></h2>
+<h2><font  Hi, I’m Ketan Singh. </font></h2>
 - 👀 I’m interested in Cyber Security
 <br >
 - 🌱 I’m currently learning B.tech 2nd year from AIML
